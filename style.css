@@ -1,0 +1,52 @@
+/* ----------Body--------------- */
+*{
+    margin:0;
+    padding:0;
+}
+
+.heading{
+    text-align: center;
+    padding: 18px;
+    color: brown;
+}
+#item{
+    padding: 30px 20px 50px 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.itemDiv{
+    padding-top: 20px;
+    padding-bottom: 120px;
+    height: 300px;
+    width: 300px;
+}
+.itemimg{
+    max-width:200px;
+    padding: 40px;
+    background-color: rgb(255, 240, 250);
+}
+.title{
+    margin-top: 10px;
+    text-align: center;
+}
+.price{
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
